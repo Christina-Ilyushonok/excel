@@ -1,0 +1,8 @@
+webpack
+    babel
+    scss
+    eslint
+    2 modes
+        dev(dev Server, SourseMap, eslint, not minified js & css)
+        prod(minified code)
+git
